@@ -46,7 +46,7 @@ sketchybar --default "${DEF_PROPS[@]}"
 
 source "$ITEM_DIR/spaces.sh"
 source "$ITEM_DIR/focus.sh"
-
 source "$ITEM_DIR/time.sh"
+source "$ITEM_DIR/date.sh"
 
 sketchybar --update

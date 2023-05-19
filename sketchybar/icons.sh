@@ -1,6 +1,9 @@
 export WIFI_DISCONN_ICON=􀙈
 export WIFI_CONN_ICON=􀙇
 
+export TIME_ICON=
+export DATE_ICON=
+
 export BATTERY_BOLT_ICON=􀢋
 export BATTERY_100_ICON=􀛨
 export BATTERY_75_ICON=􀺸
