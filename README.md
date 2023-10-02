@@ -1,4 +1,4 @@
-# You need this font
+# Essential
 ```
 brew install --cask font-hack-nerd-font
 ```
